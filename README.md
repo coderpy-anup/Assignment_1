@@ -31,6 +31,15 @@ Download it here 👉 [https://www.python.org/downloads/](https://www.python.org
 
 ```bash
 python task_1.py
+
+Enter the first number  : 5
+Enter the second number : 98
+
+Addition        : 103
+Subtraction     : -93
+Multiplication  : 490
+Division        : 0.05102040816326531
+
 ```
 
 # Task 2 : 👋 Personalized Greeting Program in Python
@@ -64,4 +73,11 @@ Before running this script, make sure Python is installed on your system.
 
 ```bash
 python task_2.py
+
+Enter your first name   : Anup 
+Enter your last name    : Ingale
+
+Hello, Anup Ingale! Welcome to the Python Program
+
+```
 
